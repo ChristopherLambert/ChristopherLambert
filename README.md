@@ -5,6 +5,4 @@ Trabalhando principalmente com **C#, :see_no_evil: Xamarin, ASPNET, Angular, SQL
 Sempre em busca de novos desafios, visando o desenvolvimento da minha carreira, gerando de resultados, para possibilitar crescimento qualitativo e quantitativo para os envolvidos.
 Agradeço a atenção e coloco-me ao inteiro dispor para contato pesso.
 
-Obrigado pela Visita. :metal:
-
-Volte Sempre e fique a vontade para fazer um Fork de algum projeto se assim desejar.
+Obrigado pela Visita. :metal: Volte Sempre e fique a vontade para fazer um  :fork_and_knife: Fork de algum projeto se assim desejar.
